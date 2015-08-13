@@ -21,12 +21,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/web-tutorial/compile-sass-to-css-with-gulp.git"
+    "url": "git+https://github.com/web-tutorials/compile-sass-to-css-with-gulp.git"
   },
   "author": "ducito",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/web-tutorial/compile-sass-to-css-with-gulp/issues"
+    "url": "https://github.com/web-tutorials/compile-sass-to-css-with-gulp/issues"
   },
-  "homepage": "https://github.com/web-tutorial/compile-sass-to-css-with-gulp#readme"
+  "homepage": "https://github.com/web-tutorials/compile-sass-to-css-with-gulp#readme"
 }
