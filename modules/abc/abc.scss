@@ -1,0 +1,19 @@
+.abc{
+	width            : 100px;
+	height           : 100px;
+	background-color : green;
+}
+.xyz{
+	width            : 100px;
+	height           : 100px;
+	background-color : green;
+	:active{
+	background-color : green;
+	}
+	:hover{
+	background-color : green;
+	}
+	span{
+		float:right;
+	}
+}

@@ -1,0 +1,32 @@
+{
+  "name": "compile-sass-to-css-with-gulp",
+  "version": "1.0.0",
+  "description": "compile sass to css with gulp",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  },
+  "devDependencies": {
+    "bower": "^1.4.1",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-minify-css": "^1.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.0.4",
+    "gulp-util": "^3.0.6",
+    "shelljs": "^0.5.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web-tutorial/compile-sass-to-css-with-gulp.git"
+  },
+  "author": "ducito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/web-tutorial/compile-sass-to-css-with-gulp/issues"
+  },
+  "homepage": "https://github.com/web-tutorial/compile-sass-to-css-with-gulp#readme"
+}
